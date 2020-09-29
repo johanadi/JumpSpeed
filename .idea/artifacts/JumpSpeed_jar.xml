@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JumpSpeed:jar">
+    <output-path>$USER_HOME$/Documents/1.16.1 Server/plugins</output-path>
+    <root id="archive" name="JumpSpeed.jar">
+      <element id="module-output" name="JumpSpeed" />
+    </root>
+  </artifact>
+</component>

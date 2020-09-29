@@ -1,0 +1,8 @@
+main: me.beatsolos.JumpSpeed.Main
+name: JumpSpeed
+version: 1.0
+author: Beatsolos
+commands:
+  resetspeed:
+    description: resets the speed of user
+    usage: /<command>
